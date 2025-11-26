@@ -39,7 +39,7 @@ O site se adapta perfeitamente para:
 
 ## 📂 Estrutura do Projeto
 
-\`\`\`
+```
 ├── app/
 │   ├── layout.tsx          # Layout principal
 │   ├── page.tsx            # Página home
@@ -60,7 +60,7 @@ O site se adapta perfeitamente para:
     ├── kuromi-2.png
     ├── kuromi-3.png
     └── kuromi-4.png
-\`\`\`
+```
 
 ## 💝 Feito com Amor
 
